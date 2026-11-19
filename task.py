@@ -1,3 +1,4 @@
+#Google Repository Scraper & SQLite Storage Script
 import re
 import sqlite3
 import time
